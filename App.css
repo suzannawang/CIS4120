@@ -3,11 +3,11 @@
   flex-direction: column;
   justify-content: space-between;
   text-align: center;
-  width: 390px; /* iPhone 12 width */
-  height: 814px; /* iPhone 12 height */
+  width: 390px; 
+  height: 814px; 
   margin: auto;
-  overflow: hidden; /* Ensure no overflow */
-  background-color: #cbf2fc; /* Background color for the app */
+  overflow: hidden; 
+  background-color: #cbf2fc; 
 }
 
 .App-logo {
